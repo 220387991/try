@@ -35,3 +35,4 @@ void SendData(uint8_t data){
     RecieveAck();
     StopI2C();
 }
+//好多都是对着ai然后自己再根据那个原则什么发送时候要干啥接受时那个要置高啥的，但就是不理解就是想象不到过程。
